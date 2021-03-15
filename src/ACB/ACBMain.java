@@ -44,7 +44,7 @@ public class ACBMain {
 				break;
 
 			case 3:
-				// dbaccessor.mostraRevistesArticlesAutors();
+				teamController.createTeam();
 				break;
 
 			case 4:
